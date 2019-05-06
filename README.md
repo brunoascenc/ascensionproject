@@ -1,6 +1,6 @@
 #AscensionPhotography
 
-Ascension é um pequeno projeto sobre uma pequena agencia de fotografia.
+Ascension é um pequeno projeto sobre uma agencia de fotografia.
 
 
 
